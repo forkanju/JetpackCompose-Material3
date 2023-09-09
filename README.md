@@ -1,21 +1,21 @@
 # JetpackCompose-Material3
 
-## Link -> Generate and Export Custom Colors for App theme.
+## Generate and Export Custom Colors for App theme.
 https://m3.material.io/theme-builder#/custom
 
-## Link -> Typography different from Material2 & Material3.
+## Typography different from Material2 & Material3.
 [https://m3.material.io/theme-builder#/custom](https://developer.android.com/jetpack/compose/designsystems/material2-material3#typography)
 
-## Link -> Typography-Fonts
+## Typography-Fonts
 [https://m3.material.io/theme-builder#/custom](https://m3.material.io/styles/typography/fonts)
 
-## Link -> Shapes-tokens 
+## Shapes-tokens 
 [https://m3.material.io/theme-builder#/custom](https://m3.material.io/styles/shape/shape-scale-tokens)
 
-## Link -> Elevation / Lebel - tokens
+## Elevation / Lebel - tokens
 [https://m3.material.io/theme-builder#/custom](https://m3.material.io/styles/elevation/tokens)https://m3.material.io/styles/elevation/tokens
 
-## Link -> Icon-Buttons
+## Icon-Buttons
 https://m3.material.io/components/icon-buttons/overview
 
 # Stevdza-San Youtube Playlist - Material3
